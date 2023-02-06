@@ -1,8 +1,13 @@
-Execute o comando a seguir no terminal para instalar as dependências:
+<p style="font-size: 15px">Execute o comando a seguir no terminal para instalar as dependências:</p>
 
+```
 $ npm i
 ou
 $ npm install
-Para executar o projeto digite:
+```
 
-$ npm run dev
+
+<p style="font-size: 15px">Para executar o projeto digite:</p>
+
+```
+$ npm start
